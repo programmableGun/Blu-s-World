@@ -646,6 +646,7 @@
       "minecraft:creeper": "2023-02-15 14:30:08 -0600",
       "minecraft:phantom": "2023-02-26 20:05:07 -0600",
       "minecraft:witch": "2023-02-16 13:06:22 -0600",
+      "minecraft:cave_spider": "2023-02-28 11:41:29 -0600",
       "minecraft:piglin": "2023-02-26 21:52:30 -0600",
       "minecraft:zombie": "2023-02-15 14:30:21 -0600",
       "minecraft:drowned": "2023-02-15 15:17:43 -0600",
@@ -1390,15 +1391,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_blue_dye": "2023-02-26 22:10:36 -0600"
-    },
-    "done": true
-  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2023-02-26 21:40:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-02-26 22:10:36 -0600"
     },
     "done": true
   },
@@ -1685,15 +1686,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_blue_dye": "2023-02-26 22:10:36 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2023-02-26 21:53:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2023-02-26 22:10:36 -0600"
     },
     "done": true
   },
@@ -2850,15 +2851,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2023-02-26 20:22:38 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2023-02-26 20:11:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-02-26 20:22:38 -0600"
     },
     "done": true
   },
